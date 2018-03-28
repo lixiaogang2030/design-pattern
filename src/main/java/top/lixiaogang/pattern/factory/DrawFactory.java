@@ -5,7 +5,7 @@ import top.lixiaogang.pattern.factory.impl.Rectangle;
 import top.lixiaogang.pattern.factory.impl.Square;
 
 /**
- * Created by xiaogangli on 2018/3/27.
+ * Created by lixiaogang on 2018/3/27.
  */
 @Slf4j
 public class DrawFactory {

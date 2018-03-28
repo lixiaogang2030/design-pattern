@@ -1,4 +1,4 @@
-package top.lixiaogang.pattern.factory;
+package top.lixiaogang.pattern.abstractfactory;
 
 /**
  * Created by lixiaogang on 2018/3/27.
